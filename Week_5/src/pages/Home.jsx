@@ -26,7 +26,7 @@ function Home({ dimensions }) {
             <div class="heroSection">
                 <div class="columns">
                     <div class="columnLarge">
-                        <h1>FakeBook</h1>
+                        <h1>FakeBook Edited!</h1>
                         <h4 class="paddingTop">Join FakeBook, ACM Cloud's latest app for sharing status, connecting with friends, and meeting new people!</h4>
                     </div>
                     <div class="columnSmall">
