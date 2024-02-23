@@ -1,0 +1,28 @@
+{
+    "username": {
+      "S": "ssub"
+    },
+    "bio": {
+      "S": "This is my bio! I'm an ACM Cloud Officer!"
+    },
+    "details": {
+      "M": {
+        "School": {
+          "S": "UCLA"
+        }
+      }
+    },
+    "friends": {
+      "L": [
+        {
+          "S": "jb123"
+        }
+      ]
+    },
+    "name": {
+      "S": "Satyen Subramaniam"
+    },
+    "password": {
+      "S": "1234"
+    }
+}
